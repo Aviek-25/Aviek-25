@@ -27,6 +27,9 @@ Currently focused on frontend engineering, concurrency, and scalable architectur
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a> </p>
+<br>
+<br>
+
 
 
 
@@ -66,6 +69,16 @@ Currently focused on frontend engineering, concurrency, and scalable architectur
 I like hard games for the same reason I like systems programming —  
 punishment, precision, and zero hand-holding.
 </p>
+
+---
+ <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>500 hours of Video are uploaded to Facebook every minute according to Forecast.</i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+---
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
