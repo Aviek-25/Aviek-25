@@ -52,6 +52,7 @@ Currently focused on frontend engineering, concurrency, and scalable architectur
   <li>📫 Reach me at <b>aviek.25scs1003001203@iilm.edu</b></li>
   <li>📄 <a href="">View Resume</a></li>
   <li>⚡ Fun fact: I enjoy Souls-like games (yes, the painful ones)</li>
+  <li>💬 Talk to me about Formula 1, Memes, Anime, Movies 🎥,Badminton</li>
 </ul>
 
 
