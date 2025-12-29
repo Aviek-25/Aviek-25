@@ -102,7 +102,6 @@ punishment, precision, and zero hand-holding.
 <br><br>
 
 
-![Gitartwork](https://github.com/Aviek-25/Aviek-25/blob/main/gitartwork.svg)
 
 
 
