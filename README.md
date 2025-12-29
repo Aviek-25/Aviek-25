@@ -40,6 +40,7 @@ Currently focused on frontend engineering, concurrency, and scalable architectur
 </a> </p>
 <br>
 <br>
+<br>
 
 
 
@@ -109,7 +110,7 @@ punishment, precision, and zero hand-holding.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aviek-25&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aviek-25&theme=github_radical"/>
 </p>
 
 
