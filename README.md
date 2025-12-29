@@ -103,6 +103,9 @@ punishment, precision, and zero hand-holding.
 <br><br>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aviek-25&langs_count=4)
+
+
 
 
 
