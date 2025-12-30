@@ -103,7 +103,14 @@ punishment, precision, and zero hand-holding.
 <br><br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aviek-25&langs_count=4)
+
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+
+
 
 
 
