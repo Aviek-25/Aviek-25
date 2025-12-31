@@ -101,6 +101,8 @@ punishment, precision, and zero hand-holding.
 
 
 <br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aviek-25&label=Profile%20views&color=0e75b6&style=flat" alt="Aviek-25" /> </p>
+<br>
 
 
 
@@ -108,6 +110,11 @@ punishment, precision, and zero hand-holding.
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+
+
+
+<br>
+
 
 
 
