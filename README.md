@@ -17,12 +17,7 @@
 I’m a computer science student who prefers building real systems over collecting buzzwords.  
 Currently focused on frontend engineering, concurrency, and scalable architectures.
 </p>
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
-
 <p>
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&svgfill=023C6C">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
@@ -32,21 +27,11 @@ Currently focused on frontend engineering, concurrency, and scalable architectur
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-  
-
-
-
 </a>
 </a> </p>
 <br>
 <br>
 <br>
-
-
-
-
-
-
 <div align="center">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
@@ -96,24 +81,29 @@ punishment, precision, and zero hand-holding.
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
 
-
 <div align="center">
+  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aviek-25&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aviek-25&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aviek-25&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aviek-25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aviek-25&label=Profile%20views&color=0e75b6&style=flat" alt="Aviek-25" /> </p>
 <br>
-
-
-
-
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
 
 
-<br>
+
+
+
+
+
 
 
 
