@@ -27,11 +27,19 @@ Currently focused on frontend engineering, concurrency, and scalable architectur
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=netlify&animation=spin&svgfill=4285F4">
+
+<br>
+
+
+
+
 </a>
 </a> </p>
 <br>
 <br>
 <br>
+  <br>
 <div align="center">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
@@ -96,6 +104,13 @@ punishment, precision, and zero hand-holding.
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+
+
+
+
+
+
+
 
 
 
