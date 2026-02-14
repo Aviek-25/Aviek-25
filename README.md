@@ -96,11 +96,11 @@ punishment, precision, and zero hand-holding.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aviek-25&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3>Most Used Language</h3><br>
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aviek-25&layout=compact&theme=tokyonight&hide_border=true" width="500" alt="Top Languages" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aviek-25&layout=compact&theme=tokyonight&hide_border=true" width="500" alt="Top Languages"/>
+ <br>
   
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aviek-25&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aviek-25&label=Profile%20views&color=0e75b6&style=flat" alt="Aviek-25" /> </p>
 <br>
@@ -109,7 +109,7 @@ punishment, precision, and zero hand-holding.
 </h3>
 
 <br>
-HELLO WORLD
+
 
 
 
