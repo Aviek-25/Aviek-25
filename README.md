@@ -95,6 +95,10 @@ punishment, precision, and zero hand-holding.
 ![](https://nirzak-streak-stats.vercel.app/?user=Aviek-25&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aviek-25&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<h3>Most Used Language</h3><br>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aviek-25&layout=compact&theme=tokyonight&hide_border=true" width="500" alt="Top Languages" />
+  
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aviek-25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br><br>
