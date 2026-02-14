@@ -55,7 +55,7 @@ Currently focused on frontend engineering, concurrency, and scalable architectur
   <li>👯 Building a <b>Deepfake-Identification-Project</b> in Python</li>
   <li>💬 Ask me about <b>TypeScript, Java, Python, Frontend systems</b></li>
   <li>📫 Reach me at <b>aviek.25scs1003001203@iilm.edu</b></li>
-  <li>📄 <a href="">View Resume</a></li>
+  <li>📄 <a href="https://aviek-portfolio.netlify.app/">View Portfolio</a></li>
   <li>⚡ Fun fact: I enjoy Souls-like games (yes, the painful ones)</li>
   <li>💬 Talk to me about Formula 1🏎️, Memes😂, Anime, Movies 🎥,Badminton🏸</li>
 </ul>
