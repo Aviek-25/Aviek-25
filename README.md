@@ -1,9 +1,16 @@
 <div align="center">
 
+ <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0077B6,100:FF4D8D&height=220&section=header&text=AVIEK%20PRATAP%20SINGH&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=CODE.%20PLAY.%20REPEAT.&descAlignY=62&descSize=16&descColor=EAF7FF" width="100%" alt="Jet black, cerulean blue and neon rose profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=26&duration=3500&pause=900&color=A7A459&center=true&vCenter=true&width=700&lines=Hello+hello+%F0%9F%91%8B;I'm+Aviek%2C+a+tech+goblin+%E2%9C%A9;Building+real+systems%2C+not+buzzwords;Currently+learning+React+%26+modern+JS+runtimes" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=26&duration=3500&pause=900&color=00AEEF&center=true&vCenter=true&width=750&lines=Hello+hello+%F0%9F%91%8B;I'm+Aviek%2C+a+tech+goblin+%E2%9C%A9;Building+real+systems%2C+not+buzzwords;Currently+learning+React+%26+modern+JavaScript" alt="Typing intro"/>
 
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00AEEF)](https://github.com/Aviek-25)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=FF4D8D)](https://aviek-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00AEEF)](mailto:aviek.25scs1003001203@iilm.edu)
+</div>
+<br/>
 </div>
 
 <br/>
@@ -67,39 +74,25 @@ I don't claim to know everything. I'm here to learn, build, break things, fix th
 <tr>
 <td width="50%">
 
-**🕵️ Deepfake-Identification-Project**
-Python-based system to detect and identify manipulated media.
-`Python`
+### 🌐 Developer Portfolio
 
-[View repo →](https://github.com/Aviek-25/Deepfake-Identification-Project)
+My personal website featuring projects, interactive design, and contact functionality.
 
-</td>
-<td width="50%">
+**Tech:** Next.js · TypeScript
 
-**🌐 Portfolio**
-My personal site: projects, skills, and contact info.
-`HTML · CSS · JavaScript · Netlify`
+[**View repository →**](https://github.com/Aviek-25/aviek-portfolio) ·  [**Live website →**](https://aviek-portfolio.vercel.app/)
 
-[Visit →](https://aviek-portfolio.netlify.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<!-- TODO: replace with a real project -->
-**🚧 Project Name**
-One-line description of what it does and why it matters.
-`Tech · Tech · Tech`
 
 </td>
 <td width="50%">
 
-<!-- TODO: replace with a real project -->
-**🚧 Project Name**
-One-line description of what it does and why it matters.
-`Tech · Tech · Tech`
+### 💸 Fin MAP
 
+A personal finance tracker for logging expenses and understanding spending patterns.
+
+**Tech:** Web development · Data visualization
+
+[**View repository →**](https://github.com/Aviek-25/finance-tracker)· [**Live website →**](https://finance-tracker-beta-six-63.vercel.app/)
 </td>
 </tr>
 </table>
@@ -130,18 +123,11 @@ One-line description of what it does and why it matters.
 ## 🚪 `reach_me`
 
 <div align="center">
-
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aviek.25scs1003001203@iilm.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A7A459?style=for-the-badge&logo=netlify&logoColor=black)](https://aviek-portfolio.netlify.app/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
-
-
-
+  
+[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00AEEF)](mailto:aviek.25scs1003001203@iilm.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=FF4D8D)](https://aviek-portfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00AEEF)](https://github.com/Aviek-25)
 <br/><br/>
-
-
 
 
 ### `while(alive) { learn(); build(); repeat(); }`
