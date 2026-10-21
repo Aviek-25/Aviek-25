@@ -90,7 +90,7 @@ My personal website featuring projects, interactive design, and contact function
 
 A personal finance tracker for logging expenses and understanding spending patterns.
 
-**Tech:** Web development · Data visualization
+**Tech:** TypeScript · Vite
 
 [**View repository →**](https://github.com/Aviek-25/finance-tracker)· [**Live website →**](https://finance-tracker-beta-six-63.vercel.app/)
 </td>
