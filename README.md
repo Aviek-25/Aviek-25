@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00AEEF)](https://github.com/Aviek-25)
 [![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=FF4D8D)](https://aviek-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00AEEF)](mailto:aviek.25scs1003001203@iilm.edu)
+[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00AEEF)](mailto:aviekgaur58@gmail.com)
 </div>
 <br/>
 </div>
@@ -124,7 +124,7 @@ A personal finance tracker for logging expenses and understanding spending patte
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00AEEF)](mailto:aviek.25scs1003001203@iilm.edu)
+[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00AEEF)](mailto:aviekgaur58@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=FF4D8D)](https://aviek-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00AEEF)](https://github.com/Aviek-25)
 <br/><br/>
