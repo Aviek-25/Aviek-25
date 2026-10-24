@@ -35,6 +35,7 @@ I don't claim to know everything. I'm here to learn, build, break things, fix th
 ```diff
 + [LEARNING]  React and modern JS runtimes
 + [BUILDING]  Deepfake-Identification-Project · Python
++ [BUILDING]  Personal Portfolio
 ~ [PRACTISING] Frontend systems, concurrency, scalable architecture
 ? [ASK ME]    TypeScript · Java · Python · Frontend systems
 ```
