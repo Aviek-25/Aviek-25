@@ -34,11 +34,11 @@ I don't claim to know everything. I'm here to learn, build, break things, fix th
 
 ```diff
 + [LEARNING]  React and modern JS runtimes
-+ [BUILDING]  Deepfake-Identification-Project · Python
-+ [BUILDING]  CyberPulse- Real Time Threat Detection System
-+ [BUILDING]  Personal Portfolio
-~ [PRACTISING] Frontend systems, concurrency, scalable architecture
-? [ASK ME]    TypeScript · Java · Python · Frontend systems
++ [LEARNING]   Python · Machine Learning · Generative AI
++ [BUILDING]   AI Resume & Career Intelligence
++ [BUILDING]   SupportMind AI
+~ [EXPLORING]  LLMs · RAG · Computer Vision · AI APIs
+? [ASK ME]     Python · AI/ML ·  TypeScript · Java · Full-Stack Development
 ```
 
 <br/>
