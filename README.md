@@ -142,6 +142,7 @@ A personal finance tracker for logging expenses and understanding spending patte
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aviek-25&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="55%" alt="Top Languages"/>
 
 </div>
+
 ## 🧠 `random_fact.txt`
 
 <div align="center">
