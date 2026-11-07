@@ -120,20 +120,20 @@ A personal finance tracker for logging expenses and understanding spending patte
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Aviek-25&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+![](https://github-readme-stats.shion.dev/api?username=Aviek-25&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=Aviek-25&theme=react&hide_border=false)
 
-<img src="https://streak-stats.demolab.com/?user=Aviek-25&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+<br/>
 
-<br/><br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aviek-25&layout=compact&theme=tokyonight&hide_border=true" width="55%" alt="Top Languages"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aviek-25&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="55%" alt="Top Languages"/>
 
 </div>
+
 ## 🧠 `random_fact.txt`
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="80%" alt="Random programming joke"/>
+<img src="https://readme-jokes.vercel.app/api?theme=react&hide" width="80%" alt="Random programming joke"/>
 
 </div>
 
@@ -150,6 +150,10 @@ A personal finance tracker for logging expenses and understanding spending patte
 ### `while(alive) { learn(); build(); repeat(); }`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0077B6,100:FF4D8D&height=130&section=footer" width="100%" alt="Jet black, cerulean blue and neon rose footer"/>
+
+
+
+
 
 
 
